@@ -1,0 +1,61 @@
+div.afuera {
+	width: 840px;
+	height: 440px;
+	position: relative;
+	background-color: #54C24A;
+}
+
+div.limite {
+	width: 800px;
+	height: 400px;
+	position: relative;
+	border: 2px solid white;
+	left: 18px;
+	top: 18px;
+}
+
+div.chica {
+	width: 100px;
+	height: 150px;
+	position: absolute;
+	border: 2px solid white;
+	top: 130px;
+}
+
+#circulo {
+	width: 150px;
+	height: 150px;
+	position: absolute;
+	border: 2px solid white;
+	border-radius: 100px;
+	top: 130px;
+	left:40%;
+}
+
+#izq {
+	left: -2px;
+}
+
+#der {
+	left: 698px;
+}
+
+img {
+	position: absolute;
+}
+
+img#a{
+	left: 90px;
+	top: 120px;
+
+}
+
+img#dos{
+	left: 400px;
+	top: 80px;
+}
+
+img#tres{
+	left: 660px;
+	top: 250px;
+}
